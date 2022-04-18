@@ -6,7 +6,7 @@ Tapestry is a Roman calligraphic with slight rustic, country style. It's thick a
 
 ## Building the Fonts
 
-The font is built using fontmake and gftools post processing script. Tools are all python based, so it must be previously installed.
+The font is built using fontmake and gftools post processing script. Tools are all Python based, so it must be previously installed.
 
 To install all the Python tools into a virtualenv, do the following:
 
